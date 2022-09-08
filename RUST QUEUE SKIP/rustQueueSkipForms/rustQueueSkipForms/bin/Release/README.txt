@@ -1,0 +1,1 @@
+change contents of "server.txt" to the servers connect command

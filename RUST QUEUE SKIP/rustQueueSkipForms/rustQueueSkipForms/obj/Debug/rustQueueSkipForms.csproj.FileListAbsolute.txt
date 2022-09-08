@@ -1,0 +1,10 @@
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\bin\Debug\rustQueueSkipForms.exe.config
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\bin\Debug\rustQueueSkipForms.exe
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\bin\Debug\rustQueueSkipForms.pdb
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\obj\Debug\rustQueueSkipForms.csproj.AssemblyReference.cache
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\obj\Debug\rustQueueSkipForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\obj\Debug\rustQueueSkipForms.Properties.Resources.resources
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\obj\Debug\rustQueueSkipForms.csproj.GenerateResource.cache
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\obj\Debug\rustQueueSkipForms.csproj.CoreCompileInputs.cache
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\obj\Debug\rustQueueSkipForms.exe
+C:\Users\seans\Desktop\rustQueueSkipForms\rustQueueSkipForms\obj\Debug\rustQueueSkipForms.pdb

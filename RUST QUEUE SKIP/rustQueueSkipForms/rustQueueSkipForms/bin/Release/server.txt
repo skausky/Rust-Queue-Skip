@@ -1,0 +1,1 @@
+connect main.rustoria.us:28015

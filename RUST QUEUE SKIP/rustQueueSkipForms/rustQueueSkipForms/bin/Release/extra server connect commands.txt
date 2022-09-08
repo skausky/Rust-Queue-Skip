@@ -1,0 +1,5 @@
+rustoria main: 
+connect main.rustoria.us:28015
+
+rustoria mondays:
+connect 208.103.169.85:28015
