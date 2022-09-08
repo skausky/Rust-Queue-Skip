@@ -15,6 +15,7 @@ How to use without building:
 -Alt tab back into the release folder
 -Run rustQueueSkipForms.exe
 -Alt tab back into rust with the f1 console already open
+-It will pause for 10 seconds allowing you to alt tab into rust with the f1 console open
 -Let it run
 
 IF YOU WANT TO STOP THE BOT FROM RUNNING HOLD ON BACKSPACE UNTIL IT STOPS
