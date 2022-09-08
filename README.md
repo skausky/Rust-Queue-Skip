@@ -8,6 +8,7 @@ You can either compile/build it yourself if you have visual studio or use the re
 
 How to use without building:
 -Click code on the top right of the repo
+
 -Select "download zip" and extract it
 -Open the folder and navigate to the release folder (rustQueueSkipForms>bin>Release)
 -Set your connect command in the server.txt
